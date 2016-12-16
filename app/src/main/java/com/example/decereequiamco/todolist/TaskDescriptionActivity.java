@@ -10,6 +10,8 @@ import android.widget.Toast;
 
 public class TaskDescriptionActivity extends AppCompatActivity {
 
+
+    // nikki's
     public static final String EXTRA_TASK_DESCRIPTION = "task";
 
     private EditText mDescriptionView;

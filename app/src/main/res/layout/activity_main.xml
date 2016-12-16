@@ -30,15 +30,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="14dp" />
 
-    <Button
-        android:text="Update Task"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/updateTaskbtn"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignBottom="@+id/addTaskBtn" />
-
     <ListView
         android:id="@+id/taskListview"
         android:layout_width="wrap_content"
